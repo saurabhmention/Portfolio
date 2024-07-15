@@ -1,0 +1,222 @@
+@media  screen and (max-width:991px){
+    .nav-head a {
+        display: none;
+    }
+    .call-action a {
+        display: block;
+    }
+    
+    .nav-logo h1{
+        width: 30%;
+        font-size: 1.5rem;
+    }
+
+    .nav-logo{
+        margin-left: -40px;
+    }
+
+    .nav-head i{
+        display: block;
+        font-size: medium;
+    }
+
+    .phone button{
+        display: none;
+    }
+
+    .about-img {
+        margin-left: 20px;
+    }
+
+    .about-intro {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .about-intro h1 {
+        font-size: 30px;
+    }
+
+    .service-box1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .service-box2 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .service-box3 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .service-box h1 {
+        font-size: 3.2vh;
+    }
+
+    .service-box p {
+        font-size: 2vh;
+    }
+
+    .client-box1 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box2 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box3 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box4 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box5 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box6 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box7 {
+        width:28%;
+        height: 150px;
+    }
+
+    .client-box8 {
+        width:28%;
+        height: 150px;
+    }
+
+    .contact-map{
+        height:200px
+    }
+
+    .contact-details{
+        flex-wrap: wrap;
+        margin-left: 50px;
+        margin-right: 50px;
+        justify-content: center;
+    }
+
+    #contact-button{
+        margin-top: 20px;
+    }   
+}
+
+@media  screen and (max-width:767px){
+    .hero-mid{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+    .about-bio{
+        flex-wrap: wrap;
+    }
+    
+    .service-box{
+        flex-wrap: wrap;
+    }
+    
+    .service-box i {
+        display: inline-block;
+    }
+
+    .service-box1 {
+        width: 45%;
+        margin-bottom: 20px;  
+    }
+
+    .service-box2{
+        width: 45%;
+    }
+
+    .service-box3{
+        width: 45%;
+    }
+
+    .client-box1 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box2 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box3 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box4 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box5 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box6 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box7 {
+        width:45%;
+        height: 150px;
+    }
+
+    .client-box8 {
+        width:45%;
+        height: 150px;
+    }
+
+    .social h2{
+        font-size: 3.5vw;
+    }
+
+    .footer-us h3{
+        font-size: 3.5vw;
+    }
+
+}
+
+@media  screen and (max-width:479px){
+    .hero-sec {
+        height: 100%;
+    }
+    .hero-mid h3{
+        font-size: 2.5vh;
+    }
+
+    .service-box1 {
+        width: 95%;
+        margin-bottom: 20px;  
+    }
+
+    .service-box2 {
+        width: 95%;
+        margin-bottom: 20px;  
+    }
+
+    .service-box3 {
+        width: 95%;
+        margin-bottom: 20px;  
+    }
+}
